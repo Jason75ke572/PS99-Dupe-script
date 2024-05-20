@@ -1,5 +1,6 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/main/9c25437e39c500b58fb4e2a2.lua'))() 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/main/9c25437e39c500b58fb4e2a2.lua'))()
+
 local function generateCode()
     local possibleCharacters = "abcdef0123456789"
     local randomCharacters = ""
